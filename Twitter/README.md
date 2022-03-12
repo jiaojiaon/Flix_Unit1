@@ -1,6 +1,32 @@
 # Project 3 - *Twitter*
+# Twitter - Part II
 
-**Name of your app** is a basic twitter app to read your tweets.
+This is a basic twitter app to view, compose, favorite, and retweet tweets.
+
+Time spent: **4** hours spent in total
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [x] User can compose a tweet. (4pts)
+- [x] User can favorite a tweet. (4pts)
+- [x] User can retweet a tweet. (2pts)
+
+The following **bonus** features are implemented:
+
+- [ ] When composing a tweet, user sees a countdown for the number of characters remaining for the tweet (out of 280) (2pts)
+- [ ] User can view their profile in a profile tab. (3pts)
+- [ ] User sees embedded images in tweet if available. (3pts)
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://user-images.githubusercontent.com/90946653/158038709-0e6b7c95-a509-41dd-a9e3-3d6f61f4752e.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+**Twitter** is a basic twitter app to read your tweets.
 
 Time spent: **5** hours spent in total
 
